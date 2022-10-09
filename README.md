@@ -1,3 +1,5 @@
-# Initial Project Files ReadMe
+# Fullstack Issue Tracker App
 
-Project is on hold. Will revisit it at a later time.
+This repository stores the code for both the frontend and backend of this Issue Tracker portfolio piece.
+
+The frontend is made in React.js and the backend is made in Express with a MongoDB database powered by Mongoose.

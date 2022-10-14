@@ -11,3 +11,10 @@ The backend portion of this fullstack issue tracker portfolio piece made with Ex
 -   Projects will have a single project preferences object containing all project preferences
 -   Projects will manage their own board views
 -   Board Views will manage their issues with defined and custom fields
+
+### Example API Routes
+
+-   "/" : All users
+-   "/:user" : Single specified user
+-   "/:user/:project" : Specified project of specified user
+-   "/:user/:project/:issue" : Specified issue of specified project of specified user

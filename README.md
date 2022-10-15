@@ -11,3 +11,5 @@ The frontend is made in React.js and the backend is made in Express with a Mongo
 -   Project-based organization of issues, many issues under a project
 -   Custom tags and fields for issues
 -   Possibly other views besides Kanban (like table view)
+-   Custom fields for issues/board views
+-   Ability to add new board views to an existing project and issues auto-populate
